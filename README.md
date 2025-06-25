@@ -1,3 +1,5 @@
+ Single-Cycle RISC-V Processor
+
 This project implements a complete Single-Cycle RISC-V Processor in Verilog HDL, capable of executing each instruction in a single clock cycle. 
 The processor integrates all five classic instruction stages — instruction fetch, decode, execute, memory access, and write-back — into a unified datapath without pipelining.
 
