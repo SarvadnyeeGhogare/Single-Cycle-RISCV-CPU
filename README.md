@@ -15,7 +15,7 @@ Includes the following core Verilog modules:
 
 5. main_decoder – Generates control signals from opcode and funct3
 
-6. alu_decoder – Determines ALU operation from funct fields and instruction type
+6. alu_decoder – Determines ALU operation
 
 7. alu – Performs arithmetic, logic, and shift operations; sets zero flag
 
